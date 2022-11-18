@@ -1,0 +1,7 @@
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListeSıralayarakAtma\LinkedListeSıralayarakAtma\bin\Debug\LinkedListeSıralayarakAtma.exe.config
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListeSıralayarakAtma\LinkedListeSıralayarakAtma\bin\Debug\LinkedListeSıralayarakAtma.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListeSıralayarakAtma\LinkedListeSıralayarakAtma\bin\Debug\LinkedListeSıralayarakAtma.pdb
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListeSıralayarakAtma\LinkedListeSıralayarakAtma\obj\Debug\LinkedListeSıralayarakAtma.csproj.AssemblyReference.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListeSıralayarakAtma\LinkedListeSıralayarakAtma\obj\Debug\LinkedListeSıralayarakAtma.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListeSıralayarakAtma\LinkedListeSıralayarakAtma\obj\Debug\LinkedListeSıralayarakAtma.exe
+C:\Users\Abdullah\Desktop\C++ Projeler\LinkedListeSıralayarakAtma\LinkedListeSıralayarakAtma\obj\Debug\LinkedListeSıralayarakAtma.pdb
